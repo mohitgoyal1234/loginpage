@@ -19,11 +19,11 @@ b3.addEventListener("click",function(){
 var b1 = document.getElementById("login");
 b1.addEventListener("click",function(){
     b1.getAttribute("href");
-    b1.setAttribute("href","index.html")
+    b1.setAttribute("href","https://mohitgoyal1234.github.io/loginpage/")
 });
 var b2 = document.getElementById("signup");
 b2.addEventListener("click",function(){
     b12.getAttribute("href");
-    b2.setAttribute("href","signup.html")
+    b2.setAttribute("href","https://mohitgoyal1234.github.io/loginpage/")
 });
 
