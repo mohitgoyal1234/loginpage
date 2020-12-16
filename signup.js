@@ -23,5 +23,14 @@ b3.addEventListener("click",function(){
     password2.style.color = "white";
     username.style.color = "white";
 });
+var b1 = document.getElementById("b1");
+b1.addEventListener("click",function(){
+    b1.innerHTML = document.getElementById("login").href;
+});
+var b2 = document.getElementById("b2");
+b2.addEventListener("click",function(){
+    b2.innerHTML = document.getElementById("signup").href;
+});
+
 
 
