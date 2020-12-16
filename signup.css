@@ -144,8 +144,8 @@ a:hover{
 a:link{
     text-decoration: none;
 }
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 520px) {
     .main{
-      width: 250px;
+      width: 400px;
     }
   }
