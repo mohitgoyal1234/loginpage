@@ -144,4 +144,11 @@ a:hover{
 a:link{
     text-decoration: none;
 }
-
+@media only screen and (max-width: 310px) {
+    .main{
+      width: 250px;
+    }
+    .username{
+        margin-top: 30px;
+    }
+  }
