@@ -146,7 +146,7 @@ a:link{
 }
 @media only screen and (max-width: 520px) {
     .main{
-      width: 400px;
+      width: 300px;
     }
     .username{
         margin-top: 30px;
